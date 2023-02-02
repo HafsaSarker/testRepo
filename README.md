@@ -7,3 +7,4 @@
 #### testing newBranch
 newBranch modified 
 >>>>>>> newBranch
+new change in "new-feature"
